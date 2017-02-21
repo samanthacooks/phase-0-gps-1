@@ -1,4 +1,4 @@
-# Guided Pair
+# GPS Pair
 
 **Monday 9:30pm**
 
