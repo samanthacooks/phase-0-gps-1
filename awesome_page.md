@@ -1,4 +1,4 @@
-# GPS Pair
+# Group Pairing
 
 **Monday 9:30pm**
 
