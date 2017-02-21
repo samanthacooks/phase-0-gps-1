@@ -1,6 +1,6 @@
 # Guided Pairing session team 1
 
-** Monday 9:30pm **
+**Monday 9:30pm**
 
 *Samantha*
 *Nick*
