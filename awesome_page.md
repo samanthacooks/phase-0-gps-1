@@ -1,4 +1,4 @@
-# Guided Pairing session team 1
+# Guided Pair
 
 **Monday 9:30pm**
 
