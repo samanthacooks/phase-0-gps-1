@@ -1,4 +1,4 @@
-# GPS Pair
+# GPS Pair 1.1
 
 **Monday 9:30pm**
 
